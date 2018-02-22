@@ -37,6 +37,15 @@ JavaScript this semester will provide students with the background to join moder
 #### Our recommended resources for this week:
 ### Day-1 (plain JavaScript)
 - Skim/read, whatever you miss from [period-1](https://github.com/Cphdat3sem2018s/JavaScript)
+For the map and filter below, make sure you understand all the arguments you can provide to the callback!
+If you wan't a more detailed description, just search for the similar article from MDN.
+- [The JavaScript Array map() method](https://www.w3schools.com/jsref/jsref_map.asp)
+- [The JavaScript Array filter() method](https://www.w3schools.com/jsref/jsref_filter.asp) 
+- [JavaScript Array reduce() Method](https://www.w3schools.com/jsref/jsref_reduce.asp)
+- [JavaScript Hosting](https://www.w3schools.com/js/js_hoisting.asp)
+- Skim this article, and come back whenever we talk about this: [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [JavaScript closures (yellow/red)](https://www.w3schools.com/js/js_function_closures.asp)
+
 
 [Slides](http://sem3slides.mydemos.dk/js1/js.html)
 [Snippets](https://docs.google.com/document/d/1azWGYuInsj15FrGzcdGpOaowseE10BKAN1mc5EhpdK4/edit?usp=sharing)
