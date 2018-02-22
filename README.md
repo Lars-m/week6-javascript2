@@ -28,7 +28,7 @@ JavaScript this semester will provide students with the background to join moder
 
 ## Exercises 
 - Day 1: [Plain JavaScript](https://docs.google.com/document/d/1VX3t-DF_ONuqp2hSrBuKc6WHlROdXzcMuFCtsT7Foqw/edit?usp=sharing)
-- Day 2: [Ajax, fetch and DOM (not yet complete)](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
+- Day 2: [Ajax, fetch and DOM](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
 - Day 3: [SPA, with Webpack and Babel (TBD)](#) 
 - Friday:  [Friday Exercises (tbd)](#)
 
