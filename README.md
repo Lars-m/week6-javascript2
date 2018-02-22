@@ -50,8 +50,10 @@ If you wan't a more detailed description, just search for the similar article fr
 [Slides](http://sem3slides.mydemos.dk/js1/js.html)
 [Snippets](https://docs.google.com/document/d/1azWGYuInsj15FrGzcdGpOaowseE10BKAN1mc5EhpdK4/edit?usp=sharing)
 
-### Day-2 (The Document Object Model - DOM)
-- TBD
+### Day-2 (AJAX and JSON)
+- Skim this Wikipedia article (it has a large section about drawbacks (relevant) and no section about Pros (problematic) [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)
+- Skim this article about [JSON with JavaScript](https://www.w3schools.com/js/js_json_intro.asp) and use this [page](https://www.json.org/) as a reference
+- ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
 [Slides (TBD)]
 
