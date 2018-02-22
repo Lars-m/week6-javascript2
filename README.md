@@ -1,5 +1,5 @@
-"# JavaScriptPeriod2" 
-# JavaScript (p2), DOM, AJAX, JSON and an introduction to the Single Page Architecture
+
+# JavaScript(p2), DOM, AJAX, JSON + an introduction to the Single Page Architecture
 
 ## Plan
 
