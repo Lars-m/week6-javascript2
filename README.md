@@ -64,7 +64,7 @@ If you wan't a more detailed description, just search for the similar article fr
 
 ### Day-3 (Single Page Applications)
 Read this [article](https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications) to get an overview of the SPA-idea, and the most popular frameworks/libraries used to create such apps.
-Make sure to read the section "Finding the Right Framework for You" to understand why we talk about node, npm, bundlers etc. in today lecture
+Make sure to read the section "Finding the Right Framework for You" to understand why we talk about node, npm, bundlers etc. in todays lecture
 
 
 
