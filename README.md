@@ -12,7 +12,7 @@ You can do with NetBeans only for this period, but I (very much) suggest you ins
 User defined Callbacks, this in JavaScript, Constructor Functions, ES6 and how to use it, closures, var and hoisting.
 
 ### Wednesday - Ajax, JSON, fetch and DOM continued
-An introduction to Ajax, via fetch and how to use it with a backend REST-API
+An introduction to Ajax and JSON, via fetch and how to use it with a REST-API Backend
 
 ### Thursday - Single Page Applications
 An introduction to the Single Page Architecture, and how to write Single Page Applications with plain JavaScript
