@@ -1,7 +1,12 @@
 
 # JavaScript(p2), DOM, AJAX, JSON + an introduction to the Single Page Architecture
 
-## Plan
+## Before the start of this period you should:
+You can do with NetBeans only for this period, but I (very much) suggest you install node and a new JavaScript editor, to prepare yourself for period 3 (and make this periods JavaScript a bit more fun/realistic)
+- Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
+- Install a new editor/IDE for JavaScript development. Thomas prefers Webstorm, I prefer, and will be using, Visual Studio Code: https://code.visualstudio.com/download 
+- Install [Postman](https://www.getpostman.com/) before wednesdays lecture (Ajax)
+
 
 ### Tuesday - JavaScript continued
 User defined Callbacks, this in JavaScript, Constructor Functions, ES6 and how to use it, closures, var and hoisting.
@@ -27,9 +32,9 @@ JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk]
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-- Day 1: [Plain JavaScript](https://docs.google.com/document/d/1VX3t-DF_ONuqp2hSrBuKc6WHlROdXzcMuFCtsT7Foqw/edit?usp=sharing)
-- Day 2: [Ajax, fetch and DOM](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
-- Day 3: [SPA, with Webpack and Babel (TBD)](#) 
+- Tuesday: [JavaScript Continiued](https://docs.google.com/document/d/1VX3t-DF_ONuqp2hSrBuKc6WHlROdXzcMuFCtsT7Foqw/edit?usp=sharing)
+- Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
+- Thursday: [SPA, with Webpack and Babel (TBD)](#) 
 - Friday:  [Friday Exercises (tbd)](#)
 
 ## Resources: 
