@@ -60,7 +60,7 @@ If you wan't a more detailed description, just search for the similar article fr
 - Skim this article about [JSON with JavaScript](https://www.w3schools.com/js/js_json_intro.asp) and use this [page](https://www.json.org/) as a reference
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
-[Slides (TBD)]
+[Slides](https://docs.google.com/presentation/d/1iUnsncsUWj3lU7FdR9MnuC_jb4JzrlByDDYB7ieStwM/edit?usp=sharing)
 
 ### Day-3 (Single Page Applications)
 Read this [article](https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications) to get an overview of the SPA-idea, and the most popular frameworks/libraries used to create such apps.
