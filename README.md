@@ -34,7 +34,7 @@ JavaScript this semester will provide students with the background to join moder
 ## Exercises 
 - Tuesday: [JavaScript Continiued](https://docs.google.com/document/d/1VX3t-DF_ONuqp2hSrBuKc6WHlROdXzcMuFCtsT7Foqw/edit?usp=sharing)
 - Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
-- Thursday: [SPA, with Webpack and Babel (TBD)](#) 
+- Thursday: [SPA, with Webpack and Babel](https://docs.google.com/document/d/1aGX2saNOCP00WJUECc_27CnQyGYeF3dRgTptHijzu40/edit?usp=sharing) 
 - Friday:  [Friday Exercises (tbd)](#)
 
 ## Resources: 
