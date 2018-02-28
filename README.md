@@ -37,6 +37,7 @@ JavaScript this semester will provide students with the background to join moder
 - Thursday: [SPA, with Webpack and Babel](https://docs.google.com/document/d/1aGX2saNOCP00WJUECc_27CnQyGYeF3dRgTptHijzu40/edit?usp=sharing) 
 - Friday:  [Friday Exercises (tbd)](#)
 
+
 ## Resources: 
 
 #### Our recommended resources for this week:
